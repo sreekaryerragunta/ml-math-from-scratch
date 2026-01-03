@@ -256,7 +256,7 @@ Useful for some ML algorithms.
 
 ---
 
-## Interview Questions
+## Key Questions
 
 **Q: Explain PCA in simple terms.**
 A: PCA finds new axes that capture maximum variance in the data. The first axis points in the direction of highest variance, the second in the next highest (perpendicular to first), and so on. We keep only the top k axes to reduce dimensions while retaining most information.
