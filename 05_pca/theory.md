@@ -270,3 +270,4 @@ A: PCA is unsupervised (ignores labels) and maximizes variance. LDA is supervise
 ---
 
 **Next**: See implementation notebooks for eigenfaces and hands-on examples!
+
