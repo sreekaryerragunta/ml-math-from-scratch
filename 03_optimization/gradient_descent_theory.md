@@ -252,7 +252,7 @@ Modern deep learning uses adaptive learning rates:
 
 ---
 
-## Interview Questions
+## Key Questions
 
 **Q: What's the difference between batch and stochastic gradient descent?**
 A: Batch GD uses all examples per update (slow, stable). SGD uses one example (fast, noisy). Mini-batch uses small batches (balanced).
