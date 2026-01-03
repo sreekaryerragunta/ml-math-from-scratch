@@ -4,8 +4,6 @@
 
 ## Purpose
 
-Most data scientists can call library functions. This repository proves I can **build** those functions from scratch.
-
 Every algorithm is implemented using only NumPy, with complete mathematical derivations, visual intuitions, and comparisons to industry-standard libraries like scikit-learn.
 
 ---
