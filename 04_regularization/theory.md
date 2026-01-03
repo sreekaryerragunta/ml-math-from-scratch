@@ -214,7 +214,7 @@ Same principles apply!
 
 ---
 
-## Interview Questions
+## Key Questions
 
 **Q: What's the difference between L1 and L2 regularization?**
 A: L2 shrinks all weights toward zero smoothly. L1 forces some weights to exactly zero, performing feature selection. L2 penalty is differentiable everywhere, L1 is not (at zero).
